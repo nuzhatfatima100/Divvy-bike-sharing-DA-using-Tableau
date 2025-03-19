@@ -60,18 +60,6 @@ This project analyzes **Divvy Bike Sharing** data to identify **key ridership tr
 
 ---
 
-## **Project Structure**  
-
-```
-📂 Divvy-Bike-Analysis
- ├── 📄 README.md        # Project documentation  
- ├── 📊 Tableau_Dashboard.twb # Tableau file (if available)  
- ├── 📄 Divvy_Cleaned_Data.xlsx # Cleaned dataset (if sharing)  
- ├── 📄 Exploratory_Analysis.pdf # Summary report  
-```
-
----
-
 ## **Next Steps 🚀**  
 🔹 **Enhance predictive modeling** to forecast bike demand at key stations.  
 🔹 **Integrate real-time station availability data** for dynamic rebalancing.  
@@ -81,7 +69,7 @@ This project analyzes **Divvy Bike Sharing** data to identify **key ridership tr
 
 ## **Connect with Me 💬**  
 📧 **Email:** nuzhatzaidi100@gmail.com 
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/nuzhat-fatima/)  
+🔗 **LinkedIn:** [Nuzhat-Fatima](https://www.linkedin.com/in/nuzhat-fatima/)  
 
 ---
 
